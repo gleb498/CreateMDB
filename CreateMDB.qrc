@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>database.ico</file>
+    </qresource>
+</RCC>
