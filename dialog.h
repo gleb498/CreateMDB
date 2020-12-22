@@ -22,8 +22,8 @@ private slots:
 
 private:
     Ui::Dialog *ui;
-    QString libPath;
-    QString getProjectFileWithPath();
+    QString mdbPath;
+    QString getLibPath();
     bool getLibraryDir();
 };
 

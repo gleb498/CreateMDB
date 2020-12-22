@@ -34,7 +34,7 @@
        </font>
       </property>
       <property name="text">
-       <string>Файл проекта:</string>
+       <string>Файл библиотеки:</string>
       </property>
      </widget>
     </item>
@@ -44,6 +44,9 @@
        <font>
         <pointsize>9</pointsize>
        </font>
+      </property>
+      <property name="text">
+       <string/>
       </property>
      </widget>
     </item>
